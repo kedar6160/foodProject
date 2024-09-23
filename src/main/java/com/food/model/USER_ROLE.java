@@ -1,6 +1,6 @@
 package com.food.model;
 
-public enum USER_ROLL {
+public enum USER_ROLE {
 
     ROLE_ADMIN,
     ROLE_CUSTOMER,
